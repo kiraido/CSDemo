@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9786509-3fcd-4396-a1a5-aa70be1ccd9f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/doubleCS/Dao/Impl/contactDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/doubleCS/Dao/contactDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/doubleCS/ClientAPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/doubleCS/ClientAPP.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.6.1\mvn-resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XTS0WBaFscuXxBi8oXdQaqmLmQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.36551723&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.doubleCS.ContactDao.lmpi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.doubleCS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ClientAPP">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.doubleCS.Client.Client" />
+      <module name="CS_BSDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.doubleCS.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.doubleCS.ClientAPP" />
+      <module name="CS_BSDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.doubleCS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="CS_BSDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ThreeLayerCS.Client.Server" />
+      <module name="CS_BSDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.doubleCS.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.ThreeLayerCS.Client.ClientAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ThreeLayerCS.Client.ClientAPP" />
+      <module name="CS_BSDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ThreeLayerCS.Client.ClientApp" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ClientAPP" />
+        <item itemvalue="应用程序.org.example.ThreeLayerCS.Client.ClientAPP" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.Client" />
+        <item itemvalue="应用程序.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c9786509-3fcd-4396-a1a5-aa70be1ccd9f" name="更改" comment="" />
+      <created>1698651355396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698651355396</updated>
+      <workItem from="1698651356359" duration="1203000" />
+      <workItem from="1698653772667" duration="796000" />
+      <workItem from="1698656752698" duration="914000" />
+      <workItem from="1698750364251" duration="7202000" />
+      <workItem from="1698762082986" duration="1593000" />
+      <workItem from="1698801373596" duration="197000" />
+      <workItem from="1698804526892" duration="2587000" />
+      <workItem from="1698911271702" duration="1081000" />
+      <workItem from="1699103173937" duration="302000" />
+      <workItem from="1699763222859" duration="1697000" />
+      <workItem from="1699764969715" duration="25000" />
+      <workItem from="1699765429743" duration="78000" />
+      <workItem from="1699765537677" duration="157000" />
+      <workItem from="1699793101547" duration="12000" />
+      <workItem from="1699796515186" duration="129000" />
+      <workItem from="1699796929688" duration="383000" />
+      <workItem from="1699838158324" duration="775000" />
+      <workItem from="1699839412881" duration="113000" />
+      <workItem from="1699850894122" duration="1479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
